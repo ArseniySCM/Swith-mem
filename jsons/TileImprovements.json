@@ -1,0 +1,11 @@
+[
+	{
+	"name":"Big Bank"
+	"turnsToBuild": 7,
+	"terrainsCanBeBuiltOn": ["Land"],
+	"gold": 3,
+	"uniques":["Pillaging this improvement yields approximately [+20 Gold]"]
+	"techRequired": "Banking",
+	"uniqueTo":"Switherland"
+	}
+]

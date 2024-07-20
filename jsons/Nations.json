@@ -1,0 +1,23 @@
+[
+	{
+		"name":"Switherland"
+		"leaderName":"Viola A."
+		"adjective": ["Dutch"],
+		"startBias": ["Hill", "Mountain"],
+		"preferredVictoryType": "Neutral",
+	
+		"startIntroPart1":"You are need give me butter"
+		"startIntroPart2":""
+	
+		"declaringWar": "LoL",
+		"attacked": "You @##$&-@",
+		"defeated": "",
+		"introduction": "I,m is optimus prime",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+		"cities":["Bern", "Zürich", "Genève", "Basel",  "Lausanne", "Luzern", "Biel", "Thun", "Chur", "Kriens", "Zug", "Baar", "Meyrin", "Riehen", "Bulle", "Horgen"]
+		"uniques":["[+999]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+"[+999]% Strength <for [All] units> <when fighting in [Foreign Land] tiles>"]
+		"uniqueName":"Neutral nation"
+		}
+]
